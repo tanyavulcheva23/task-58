@@ -27,3 +27,12 @@ html {
   font-size: 10rem;
   flex-flow: column;
 }
+
+.navbar{
+    height: 100px;
+    width: 500px;
+    z-index: 2;
+    position: fixed;
+    top: 0px;
+    
+}
